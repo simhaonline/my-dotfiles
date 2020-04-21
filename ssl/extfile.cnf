@@ -1,0 +1,2 @@
+subjectAltName = DNS:portal.megam.cloud, DNS:ams-s1.megam.cloud, DNS:njc-s1.megam.cloud, DNS:syd-s1.megam.cloud, DNS:sgd-s1.megam.cloud, DNS:trt-s1.megam.cloud, IP:95.179.154.158,IP:10.7.96.3,IP:108.61.132.105,IP:10.1.96.3,IP:108.61.251.187,IP:10.19.96.3,IP:149.28.144.238,IP:10.40.96.3,IP:155.138.141.4,IP:10.22.96.3,IP:127.0.0.1
+extendedKeyUsage = serverAuth
